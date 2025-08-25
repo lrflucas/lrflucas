@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-Sou Lucas Rocha Ferreira, atualmente estou no 3º período do curso de Ciência da Computação. Iniciei minha trajetória na tecnologia em 2017, quando, ainda criança, tive a oportunidade de fazer um curso de programação, que seguiu até 2021. Essa experiência me proporcionou uma base e me despertou paixão e curiosidade pela área. Desde então, venho explorando diversas áreas da computação, onde estou sempre em busca de evolução e novos aprendizados.
+Sou Lucas Rocha Ferreira, atualmente estou no 4º período do curso de Ciência da Computação. Iniciei minha trajetória na tecnologia em 2017, quando, ainda criança, tive a oportunidade de fazer um curso de programação, que seguiu até 2021. Essa experiência me proporcionou uma base e me despertou paixão e curiosidade pela área. Desde então, venho explorando diversas áreas da computação, onde estou sempre em busca de evolução e novos aprendizados.
 
 <br>
 
